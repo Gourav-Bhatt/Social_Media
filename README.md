@@ -7,5 +7,5 @@ To develop data-driven content strategies, examine how the past works, and to im
 Increase followers by 20% in 3 months, increase engagement (likes, comments, shares) by 15%, and increase website traffic by 10%. 
 <br>
 <h3>🧭 Tools Used:</h3>
-👉🏻 Microsoft Power BI
+👉🏻 Microsoft PowerPoint
 👉🏻 Artificial Intelligence
